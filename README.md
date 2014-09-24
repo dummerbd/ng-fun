@@ -1,4 +1,4 @@
 ng-fun
 ======
 
-AngularJS app for fun
+Fun with AngularJS!

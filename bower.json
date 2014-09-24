@@ -1,0 +1,21 @@
+{
+  "name": "ng-fun",
+  "version": "0.0.0",
+  "homepage": "https://github.com/dummerbd/ng-fun",
+  "authors": [
+    "Ben <dummerbd@appstate.edu>"
+  ],
+  "description": "Fun with AngularJS!",
+  "license": "None",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.22",
+    "bootstrap": "~3.2.0"
+  }
+}
