@@ -20,4 +20,6 @@ module.exports = function(grunt) {
     });
 
     grunt.loadNpmTasks('grunt-bowercopy');
+    
+    grunt.registerTask('default', ['bowercopy']);
 };
